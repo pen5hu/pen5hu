@@ -15,7 +15,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?logo=typescript&logoColor=fff)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=fff)
 
-### バッグエンド
+### バックエンド
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
 
