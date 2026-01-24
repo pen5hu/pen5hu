@@ -5,7 +5,7 @@
 ## 🧑‍💻 自己紹介
 
 - 💻 ソフトウェアエンジニア / Software Engineer
-- 🛠️ 好きな技術: TypeScript, Go, AWS
+- 🛠️ 好きな技術: TypeScript, Go, AWS, Terraform
 
 ---
 
@@ -21,5 +21,6 @@
 
 ### インフラ・クラウド
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=fff)
+![Terraform](https://img.shields.io/badge/-Terraform-58A13E?logo=terraform&logoColor=fff)
 
 ---
