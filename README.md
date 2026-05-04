@@ -1,11 +1,8 @@
-### Hi there 👋
-
----
-
 ## 🧑‍💻 自己紹介
 
-- 💻 ソフトウェアエンジニア / Software Engineer
+- 💻 Software Engineer (2022 ~)
 - 🛠️ 好きな技術: TypeScript, Go, AWS, Terraform
+- 👶 パパエンジニアです
 
 ---
 
@@ -21,6 +18,16 @@
 
 ### インフラ・クラウド
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=fff)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=fff)
 ![Terraform](https://img.shields.io/badge/-Terraform-58A13E?logo=terraform&logoColor=fff)
+
+---
+
+## 🏆 資格
+
+- 基本情報技術者試験
+- 応用情報技術者試験
+- AWS Certified Solutions Architect - Associate (SAA)
+- AWS Certified Solutions Architect - Professional (SAP)
 
 ---
