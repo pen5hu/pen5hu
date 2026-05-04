@@ -25,9 +25,9 @@
 
 ## 🏆 資格
 
-- 基本情報技術者試験
-- 応用情報技術者試験
-- AWS Certified Solutions Architect - Associate (SAA)
-- AWS Certified Solutions Architect - Professional (SAP)
+- 基本情報技術者
+- 応用情報技術者
+- AWS Certified Solutions Architect - Associate (Expiration Date: 2026-02-01)
+- AWS Certified Solutions Architect - Professional (Expiration Date: 2027-11-27)
 
 ---
